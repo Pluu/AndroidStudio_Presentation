@@ -1,12 +1,14 @@
 package com.example.recheckstudiosetting.list
 
-// Code Foarmat
-// Reformat code, macro, save actions ... Inspection!!
+//import kotlinx.android.synthetic.main.activity_main.*
+
+// Code Format
+// Reformat code, save actions ... Inspection!!
 // Preferences | Editor | Inspections
 // Kotlin | Style issues | File is not formatted according to project settings
 
 //fun format(value: Int) {
-//    if(value != 5) {
+//    if(value != 5){
 //    println(value)
 //    }
 //}
@@ -15,7 +17,7 @@ package com.example.recheckstudiosetting.list
 
 //@formatter:off
 //fun notformat(value: Int) {
-//    if(value != 5) {
+//    if(value != 5){
 //    println(value)
 //    }
 //}
