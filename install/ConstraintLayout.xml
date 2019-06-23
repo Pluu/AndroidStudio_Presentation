@@ -1,0 +1,88 @@
+<templateSet group="ConstraintLayout">
+    <template name="cbb" value="app:layout_constraintBottom_toBottomOf=&quot;$cursor$&quot;" description="constraint bottom to bottom of id" toReformat="true" toShortenFQNames="true">
+        <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
+        <context>
+            <option name="XML" value="true" />
+            <option name="XML_TEXT" value="false" />
+        </context>
+    </template>
+    <template name="cbp" value="app:layout_constraintBottom_toBottomOf=&quot;parent&quot;" description="constraint bottom to bottom of parent" toReformat="true" toShortenFQNames="true">
+        <context>
+            <option name="XML" value="true" />
+            <option name="XML_TEXT" value="false" />
+        </context>
+    </template>
+    <template name="cbt" value="app:layout_constraintBottom_toTopOf=&quot;$cursor$&quot;" description="constraint bottom to top of id" toReformat="false" toShortenFQNames="true">
+        <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
+        <context>
+            <option name="XML" value="true" />
+            <option name="XML_TEXT" value="false" />
+        </context>
+    </template>
+    <template name="ctb" value="app:layout_constraintTop_toBottomOf=&quot;$cursor$&quot;" description="constraint top to bottom of id" toReformat="false" toShortenFQNames="true">
+        <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
+        <context>
+            <option name="XML" value="true" />
+            <option name="XML_TEXT" value="false" />
+        </context>
+    </template>
+    <template name="ctp" value="app:layout_constraintTop_toTopOf=&quot;parent&quot;" description="constraint top to top of parent" toReformat="false" toShortenFQNames="true">
+        <context>
+            <option name="XML" value="true" />
+            <option name="XML_TEXT" value="false" />
+        </context>
+    </template>
+    <template name="ctt" value="app:layout_constraintTop_toTopOf=&quot;$cursor$&quot;" description="constraint top to top of id" toReformat="false" toShortenFQNames="true">
+        <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
+        <context>
+            <option name="XML" value="true" />
+            <option name="XML_TEXT" value="false" />
+        </context>
+    </template>
+    <template name="cpp" value="app:layout_constraintBottom_toBottomOf=&quot;parent&quot;&#10;app:layout_constraintEnd_toEndOf=&quot;parent&quot;&#10;app:layout_constraintStart_toStartOf=&quot;parent&quot;&#10;app:layout_constraintTop_toTopOf=&quot;parent&quot;&#10;" description="constraint center of parent" toReformat="false" toShortenFQNames="true">
+        <context>
+            <option name="XML" value="true" />
+            <option name="XML_TEXT" value="false" />
+        </context>
+    </template>
+    <template name="css" value="app:layout_constraintStart_toStartOf=&quot;$cursor$&quot;" description="constraint start to start of id" toReformat="false" toShortenFQNames="true">
+        <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
+        <context>
+            <option name="XML" value="true" />
+            <option name="XML_TEXT" value="false" />
+        </context>
+    </template>
+    <template name="csp" value="app:layout_constraintStart_toStartOf=&quot;parent&quot;" description="constraint start to start of parent" toReformat="false" toShortenFQNames="true">
+        <context>
+            <option name="XML" value="true" />
+            <option name="XML_TEXT" value="false" />
+        </context>
+    </template>
+    <template name="cse" value="app:layout_constraintStart_toEndOf=&quot;$cursor$&quot;" description="constraint start to end of id" toReformat="false" toShortenFQNames="true">
+        <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
+        <context>
+            <option name="XML" value="true" />
+            <option name="XML_TEXT" value="false" />
+        </context>
+    </template>
+    <template name="ces" value="app:layout_constraintEnd_toStartOf=&quot;$cursor$&quot;" description="constraint end to start of id" toReformat="false" toShortenFQNames="true">
+        <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
+        <context>
+            <option name="XML" value="true" />
+            <option name="XML_TEXT" value="false" />
+        </context>
+    </template>
+    <template name="cep" value="app:layout_constraintEnd_toEndOf=&quot;parent&quot;" description="constraint end to end of parent" toReformat="false" toShortenFQNames="true">
+        <context>
+            <option name="XML" value="true" />
+            <option name="XML_TEXT" value="false" />
+        </context>
+    </template>
+    <template name="cee" value="app:layout_constraintEnd_toEndOf=&quot;$cursor$&quot;" description="constraint end to end of id" toReformat="false" toShortenFQNames="true">
+        <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
+        <context>
+            <option name="XML" value="true" />
+            <option name="XML_TEXT" value="false" />
+        </context>
+    </template>
+</templateSet>
