@@ -1,4 +1,4 @@
-package com.example.recheckstudiosetting.list
+package com.example.recheckstudiosetting.list.shortcuts
 
 // //////////////////////////////////////////////////
 // Recent Files
