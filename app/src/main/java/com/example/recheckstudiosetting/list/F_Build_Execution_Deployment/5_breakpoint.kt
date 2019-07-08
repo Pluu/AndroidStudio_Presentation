@@ -1,4 +1,4 @@
-package com.example.recheckstudiosetting.list
+package com.example.recheckstudiosetting.list.F_Build_Execution_Deployment
 
 // Confirm delete Breakpoints!
 // Preferences | Build, Execution, Deployment | Debugger

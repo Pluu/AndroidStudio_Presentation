@@ -1,4 +1,4 @@
-package com.example.recheckstudiosetting.list
+package com.example.recheckstudiosetting.list.C_Editor
 
 //import kotlinx.android.synthetic.main.activity_main.*
 

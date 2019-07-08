@@ -1,4 +1,4 @@
-package com.example.recheckstudiosetting.list
+package com.example.recheckstudiosetting.list.C_Editor
 
 // JSON 형식을 쉽게 적도록
 // Option+Enter language=JSON

@@ -1,4 +1,4 @@
-package com.example.recheckstudiosetting.list
+package com.example.recheckstudiosetting.list.J_Experimental
 
 // 새로운 Project Structure Dialog
 // File | Project Structure
