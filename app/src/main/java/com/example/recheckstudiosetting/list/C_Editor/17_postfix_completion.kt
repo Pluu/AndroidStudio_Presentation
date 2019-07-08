@@ -18,6 +18,5 @@ fun postfixCompletion_Test2() {
 
 fun postfixCompletion_Test3(param: List<String>) {
     // for
-
 }
 
