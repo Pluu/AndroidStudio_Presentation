@@ -11,6 +11,14 @@ android {
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+
+        // Gradle Task : 불필요 Task 줄이기
+        // Build Speed
+//        buildConfigField 'String', 'CUSTOM_KEY', '\"' + new Date() + '\"'
+
+        // Live Template
+        // 12_live_templates.kt
+//        buildConfigField 'int', 'sample_int', 1.toString()
     }
 
     buildTypes {
