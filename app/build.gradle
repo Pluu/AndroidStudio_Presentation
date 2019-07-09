@@ -12,8 +12,7 @@ android {
         versionName "1.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
 
-        // Gradle Task : 불필요 Task 줄이기
-        // Build Speed
+        // Gradle Task, Build Speed
 //        buildConfigField 'String', 'CUSTOM_KEY', '\"' + new Date() + '\"'
 
         // Live Template
