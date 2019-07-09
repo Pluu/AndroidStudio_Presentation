@@ -4,6 +4,9 @@ import android.content.Context
 import android.util.AttributeSet
 import android.view.View
 
+// 자주 사용되는 구성을 코드에 삽입 가능
+// Preferences | Editor | Live Templates
+
 // Preferences | Editor | Live Templates
 // 1. obtainStyledAttributes
 //    - ↓↓↓↓↓ Template ↓↓↓↓↓
