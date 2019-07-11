@@ -1,9 +1,10 @@
-package com.example.recheckstudiosetting.list
+package com.example.recheckstudiosetting.list.C_Editor
 
 //import kotlinx.android.synthetic.main.activity_main.*
 
 // Code Format
 // Reformat code, save actions ... Inspection!!
+// Commit > Reformat Code, etc
 // Preferences | Editor | Inspections
 // Kotlin | Style issues | File is not formatted according to project settings
 

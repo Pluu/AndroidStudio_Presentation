@@ -1,0 +1,9 @@
+package com.example.recheckstudiosetting.list.shortcuts
+
+// //////////////////////////////////////////////////
+// Recent Files
+// 1. Recent files : Cmd + E
+// 2. Recent Edited File : Shift + Cmd + E
+
+// //////////////////////////////////////////////////
+// Special, FileName:Line

@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
         setSupportActionBar(toolbar)
 
         fab.setOnClickListener { view ->
-            Snackbar.make(view, Foo.getFooTitle(), Snackbar.LENGTH_LONG)
+            Snackbar.make(view, Foo.getFooTitle(), Snackbar.LENGTH_SHORT)
                 .show()
         }
     }

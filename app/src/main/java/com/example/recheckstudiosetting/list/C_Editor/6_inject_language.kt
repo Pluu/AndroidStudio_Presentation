@@ -1,7 +1,7 @@
-package com.example.recheckstudiosetting.list
+package com.example.recheckstudiosetting.list.C_Editor
 
 // JSON 형식을 쉽게 적도록
-// Option+Enter language=JSON
+// Shortcuts : Option + Enter / language=JSON
 // Preferences | Editor | Language Injections | Advanced
 // https://www.jetbrains.com/help/idea/advanced.html#Advanced.xml
 

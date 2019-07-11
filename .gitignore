@@ -8,3 +8,5 @@
 /captures
 .externalNativeBuild
 ktlint
+!.idea/icon.png
+!.idea/icon_dark.png

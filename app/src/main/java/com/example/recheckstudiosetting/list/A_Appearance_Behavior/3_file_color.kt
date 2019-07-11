@@ -1,4 +1,4 @@
-package com.example.recheckstudiosetting.list
+package com.example.recheckstudiosetting.list.A_Appearance_Behavior
 
 // File Color를 더 알기 쉽게 표시
 // Preferences | Appearance & Behavior | File Colors
