@@ -12,7 +12,7 @@ import android.view.View
 //    - ↓↓↓↓↓ Template ↓↓↓↓↓
 // 2. content_main.xml > Constraint center of Parent
 
-class CustomView(
+class CustomView @JvmOverloads constructor(
     context: Context,
     attrs: AttributeSet? = null,
     defStyleAttr: Int = 0

@@ -4,6 +4,7 @@ package com.example.recheckstudiosetting.list.C_Editor
 
 // Code Format
 // Reformat code, save actions ... Inspection!!
+// Commit > Reformat Code, etc
 // Preferences | Editor | Inspections
 // Kotlin | Style issues | File is not formatted according to project settings
 
