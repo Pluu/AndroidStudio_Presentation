@@ -12,9 +12,9 @@ buildscript {
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
 
         // Firebase
-        classpath 'com.google.gms:google-services:4.3.0'
+        classpath 'com.google.gms:google-services:4.3.3'
         // Fabric
-        classpath 'io.fabric.tools:gradle:1.29.0'
+        classpath 'io.fabric.tools:gradle:1.31.2'
     }
 }
 
