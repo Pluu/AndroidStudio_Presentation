@@ -1,7 +1,6 @@
 package com.example.recheckstudiosetting.list.shortcuts
 
 // Split Like : Cmd + Enter
-// Start New Line : Shift + Enter
 
 fun startNewLine() {
     println(0)

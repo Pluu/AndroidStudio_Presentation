@@ -8,7 +8,7 @@ fun postfixCompletion_Test1(param: Any?) {
     // notnull
     // nn
     // null
-    "Test | Postfix Completion >> TryCatch"
+    "Test | Postfix Completion >> try"
 }
 
 fun postfixCompletion_Test2() {
