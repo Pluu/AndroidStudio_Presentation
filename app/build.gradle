@@ -3,13 +3,12 @@ apply plugin: 'kotlin-android'
 apply plugin: 'kotlin-android-extensions'
 
 android {
-    compileSdkVersion 30
-    buildToolsVersion "30.0.1"
+    compileSdk 30
 
     defaultConfig {
         applicationId "com.example.recheckstudiosetting"
-        minSdkVersion 21
-        targetSdkVersion 30
+        minSdk 21
+        targetSdk 30
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
