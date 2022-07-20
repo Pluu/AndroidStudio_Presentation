@@ -5,6 +5,6 @@ package com.example.recheckstudiosetting.list.C_Editor
 
 fun externalAnnotation() {
     val sample = ExternalAnnotationSample()
-    sample.safeString
-    sample.unsafeString
+    val s1 = sample.safeString
+    val s2 = sample.unsafeString
 }

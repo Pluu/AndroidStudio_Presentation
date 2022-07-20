@@ -14,7 +14,7 @@ package com.example.recheckstudiosetting.list.C_Editor
 //    }
 //}
 
-// Preferences | Editor | Code Style
+// Preferences | Editor | Code Style > Tab Formatter
 
 //@formatter:off
 //fun notformat(value: Int) {
