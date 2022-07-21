@@ -9,7 +9,10 @@ import androidx.core.view.doOnPreDraw
 import androidx.core.widget.doAfterTextChanged
 import kotlin.math.abs
 
-// Menu - View - Expression Type (Cmd + Shift + P)
+// Menu - View - Expression Type
+// - ⇧⌃P (macOS)
+// - Shift+Ctrl+P (Windows/Linux)
+// https://twitter.com/intellijidea/status/1531183673835257856?s=20&t=nZTRcugzKU8kWHFglkGi0Q
 
 fun expressionType() {
     abs(1 - 10)
