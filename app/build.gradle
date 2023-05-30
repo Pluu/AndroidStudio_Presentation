@@ -4,6 +4,8 @@ plugins {
 }
 
 android {
+    namespace 'com.example.recheckstudiosetting'
+
     compileSdk 31
 
     defaultConfig {
@@ -48,6 +50,7 @@ android {
 
     buildFeatures {
         viewBinding true
+        buildConfig true
     }
 }
 
