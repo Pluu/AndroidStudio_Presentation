@@ -4,8 +4,11 @@ package com.example.recheckstudiosetting.list.F_Build_Execution_Deployment
 // Preferences | Build, Execution, Deployment | Debugger
 // https://www.jetbrains.com/help/idea/settings-debugger.html#b5dd1295
 
+// Open...BreakPointSampleTest > Run
+
 fun fooBreakpoints(value: Int) {
     if (value != 5) {
         println(value)
     }
+    println("blabla")
 }
