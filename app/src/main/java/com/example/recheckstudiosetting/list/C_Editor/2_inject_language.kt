@@ -7,6 +7,6 @@ package com.example.recheckstudiosetting.list.C_Editor
 // https://www.jetbrains.com/help/idea/advanced.html#Advanced.xml
 
 fun fooJson() {
-    val raws = "{\n  \"name\": \"pluu\",\n  \"company\": \"naver\"\n}"
-    val json = "{\n  \"name\": \"pluu\",\n  \"company\": \"naver\"\n}"
+    val raws = "{\n  \"name\": \"pluu\",\n  \"company\": \"KakaoBank\"\n}"
+    val json = "{\n  \"name\": \"pluu\",\n  \"company\": \"KakaoBank\"\n}"
 }
