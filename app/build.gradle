@@ -31,7 +31,7 @@ android {
         }
     }
 
-    flavorDimensions 'donate'
+    flavorDimensions.add("donate")
     productFlavors {
         free {
             dimension = 'donate'
