@@ -2,7 +2,9 @@ package com.example.recheckstudiosetting.list.C_Editor
 
 //import kotlinx.android.synthetic.main.activity_main.*
 
-// Code Format
+// Main Menu | Code | Reformat Code
+// ⌘ Cmd + ⌥ Option + L
+
 // Reformat code, save actions ... Inspection!!
 // Commit > Reformat Code, etc
 // Preferences | Editor | Inspections
