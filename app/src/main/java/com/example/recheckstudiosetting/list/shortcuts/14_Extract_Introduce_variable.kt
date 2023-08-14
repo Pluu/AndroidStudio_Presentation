@@ -6,7 +6,7 @@ import java.io.FileInputStream
 import java.io.InputStreamReader
 
 // Extract/Introduce variable
-// ⌘ Сmd + ⌥ Opt + V
+// ⌘ Сmd + ⌥ Option + V
 // https://www.jetbrains.com/help/idea/extract-variable.html
 
 fun introduceVariable(): String {

@@ -1,7 +1,7 @@
 package com.example.recheckstudiosetting.list.shortcuts
 
 // Chose Content to Paste
-// Cmd + Shift + V
+// ⌘ Сmd + ⇧ Shift + V
 
 // Old
 // File > Settings > Editor > Limits > Maximum number of contents to keep in clipboard

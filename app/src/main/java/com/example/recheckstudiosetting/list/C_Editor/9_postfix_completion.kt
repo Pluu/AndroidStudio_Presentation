@@ -1,7 +1,7 @@
 package com.example.recheckstudiosetting.list.C_Editor
 
 // Preferences | Editor | General | Postfix Completion
-// Shortcuts : Command + J
+// Shortcuts : ⌘ Сmd + J
 
 fun postfixCompletion_Test1(param: Any?) {
     // try

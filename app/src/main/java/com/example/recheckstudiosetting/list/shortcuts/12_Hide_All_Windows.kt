@@ -1,3 +1,3 @@
 package com.example.recheckstudiosetting.list.shortcuts
 
-// - ⌘⇧F12 (macOS)
+// - ⌘ Cmd + ⇧ Shift + F12 (macOS)

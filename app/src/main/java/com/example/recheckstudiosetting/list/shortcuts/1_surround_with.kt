@@ -1,6 +1,6 @@
 package com.example.recheckstudiosetting.list.shortcuts
 
-// Surround With .. (Cmd + Option + T)
+// Surround With .. (⌘ Cmd + ⌥ Option + T)
 
 fun main() {
     surroundWith()

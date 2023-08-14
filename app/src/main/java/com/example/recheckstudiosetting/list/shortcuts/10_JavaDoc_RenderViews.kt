@@ -1,7 +1,7 @@
 package com.example.recheckstudiosetting.list.shortcuts
 
 // Javadocs with in-editor docs rendering!
-// - ⌃⌥Q (macOS) or Ctrl+Alt+Q (Windows/Linux)
+// - ⌃ Ctrl + ⌥ Option + Q (macOS) or Ctrl+Alt+Q (Windows/Linux)
 // - Click the icon in the gutter
 
 /**

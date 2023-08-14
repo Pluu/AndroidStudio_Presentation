@@ -1,3 +1,3 @@
 package com.example.recheckstudiosetting.list.other
 
-// - ⌘⇧A (macOS)
+// ⌘ Сmd + ⇧ Shift + A (macOS)

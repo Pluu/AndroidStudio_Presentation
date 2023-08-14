@@ -2,6 +2,11 @@ package com.example.recheckstudiosetting.list.shortcuts
 
 // Main Menu | Navigate | Navigate in File | Previous Method
 // Main Menu | Navigate | Navigate in File | Next Method
+// ⇧ Shift + ⌃ Control + ↑/↓
+
+// Main Menu | Code | Move Statement Up
+// Main Menu | Code | Move Statement Down
+// ⇧ Shift + ⌘ Cmd + ↑/↓
 
 private fun t1() {
 

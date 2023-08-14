@@ -16,4 +16,24 @@ class MainActivity : AppCompatActivity() {
             // TODO
         }
     }
+
+    private fun ad() {
+
+    }
+
+    private fun ad2() {
+
+    }
+
+    private fun ad3() {
+
+    }
+
+    private fun ad4() {
+
+    }
+
+    private fun ad5() {
+
+    }
 }
