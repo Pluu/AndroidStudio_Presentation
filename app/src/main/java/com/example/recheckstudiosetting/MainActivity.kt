@@ -1,39 +1,34 @@
 package com.example.recheckstudiosetting
 
 import android.os.Bundle
+import android.widget.Toast
+import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
 import com.example.recheckstudiosetting.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
+    private lateinit var binding: ActivityMainBinding
+    private val viewModel by viewModels<MainViewModel>()
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-
-        val binding = ActivityMainBinding.inflate(layoutInflater)
+        binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
+        setUpViews()
+        setUpObservers()
+    }
+
+    private fun setUpViews() {
         binding.btnSample.setOnClickListener {
-            // TODO
+            viewModel.load()
         }
     }
 
-    private fun ad() {
-
-    }
-
-    private fun ad2() {
-
-    }
-
-    private fun ad3() {
-
-    }
-
-    private fun ad4() {
-
-    }
-
-    private fun ad5() {
-
+    private fun setUpObservers() {
+        viewModel.sampleData.observe(this) {
+            Toast.makeText(this, "Receive = $it", Toast.LENGTH_SHORT).show()
+        }
     }
 }
