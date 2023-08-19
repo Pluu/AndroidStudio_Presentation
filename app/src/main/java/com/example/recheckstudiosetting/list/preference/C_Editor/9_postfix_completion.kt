@@ -2,6 +2,7 @@ package com.example.recheckstudiosetting.list.preference.C_Editor
 
 // Preferences | Editor | General | Postfix Completion
 // Shortcuts : ⌘ Сmd + J
+// https://www.jetbrains.com/help/idea/settings-postfix-completion.html
 
 fun postfixCompletion_Test1(param: Any?) {
     // try
