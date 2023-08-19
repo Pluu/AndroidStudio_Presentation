@@ -1,8 +1,8 @@
 package com.example.recheckstudiosetting.list.preference.C_Editor
 
 // Preferences | Editor | File and Code Templates
-
-
+// https://www.jetbrains.com/help/idea/using-file-and-code-templates.html
+// https://www.jetbrains.com/help/idea/settings-file-and-code-templates.html
 
 
 
