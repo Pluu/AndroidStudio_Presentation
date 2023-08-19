@@ -6,8 +6,8 @@ import android.view.View
 
 // 자주 사용되는 구성을 코드에 삽입 가능
 // Preferences | Editor | Live Templates
-
-// Preferences | Editor | Live Templates
+// https://www.jetbrains.com/help/idea/using-live-templates.html#live_templates_types
+//
 // 1. obtainStyledAttributes
 //    - ↓↓↓↓↓ Template ↓↓↓↓↓
 // 2. content_main.xml > Constraint center of Parent
