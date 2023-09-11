@@ -1,6 +1,7 @@
 package com.example.recheckstudiosetting
 
 import android.os.Bundle
+import android.util.Log
 import android.widget.Toast
 import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
@@ -21,6 +22,9 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun setUpViews() {
+        binding.btnSendLog.setOnClickListener {
+            Log.d("SAMPLE", ">> " + (0..10).random().toString())
+        }
         binding.btnSample.setOnClickListener {
             viewModel.load()
         }

@@ -1,5 +1,6 @@
 package com.example.recheckstudiosetting
 
+import android.util.Log
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
@@ -13,8 +14,10 @@ class MainViewModel : ViewModel() {
 
     fun load() {
         viewModelScope.launch {
+            Log.d("MainViewModel", "Start Load")
             delay(1_000)
             _sampleData.value = true
+            Log.d("MainViewModel", "End Load")
         }
     }
 }

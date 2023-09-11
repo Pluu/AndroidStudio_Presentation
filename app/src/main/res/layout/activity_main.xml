@@ -7,14 +7,28 @@
     tools:context=".MainActivity">
 
     <Button
+        android:id="@+id/btnSendLog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Send Log"
+        android:textSize="32sp"
+        android:backgroundTint="#2979FF"
+        app:layout_constraintBottom_toTopOf="@id/btnSample"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_chainStyle="packed" />
+
+    <Button
         android:id="@+id/btnSample"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
         android:text="Click"
         android:textSize="32sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toBottomOf="@id/btnSendLog" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
