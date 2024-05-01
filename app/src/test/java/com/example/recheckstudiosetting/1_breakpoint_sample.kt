@@ -1,8 +1,8 @@
 package com.example.recheckstudiosetting
 
-import com.example.recheckstudiosetting.list.F_Build_Execution_Deployment.dependency_breakpoint
-import com.example.recheckstudiosetting.list.F_Build_Execution_Deployment.fooBreakpoints
-import com.example.recheckstudiosetting.list.F_Build_Execution_Deployment.trigger_breakpoint
+import com.example.recheckstudiosetting.list.preference.F_Build_Execution_Deployment.dependency_breakpoint
+import com.example.recheckstudiosetting.list.preference.F_Build_Execution_Deployment.fooBreakpoints
+import com.example.recheckstudiosetting.list.preference.F_Build_Execution_Deployment.trigger_breakpoint
 import org.junit.Test
 
 class BreakPointSampleTest {
