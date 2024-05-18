@@ -7,7 +7,9 @@ package com.example.recheckstudiosetting.list.preference.F_Build_Execution_Deplo
 // Open...BreakPointSampleTest > Run
 
 fun trigger_breakpoint(value: Int) {
-    print(value)
+    if (value == 1) {
+        print(value)
+    }
 }
 
 fun dependency_breakpoint(value: Int) {

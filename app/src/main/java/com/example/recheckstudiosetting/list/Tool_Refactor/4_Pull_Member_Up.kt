@@ -10,4 +10,8 @@ private class Child : Parent() {
 
     val fullName: String
         get() = "My name is $name"
+
+    fun doSomething() {}
 }
+
+private class Child2 : Parent()
