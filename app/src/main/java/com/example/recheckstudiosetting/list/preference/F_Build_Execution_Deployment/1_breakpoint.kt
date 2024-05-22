@@ -7,7 +7,7 @@ package com.example.recheckstudiosetting.list.preference.F_Build_Execution_Deplo
 // Open...BreakPointSampleTest > Run
 
 fun fooBreakpoints(value: Int) {
-    if (value != 5) {
+    if (value == 5) {
         println(value)
     }
     println("blabla")
