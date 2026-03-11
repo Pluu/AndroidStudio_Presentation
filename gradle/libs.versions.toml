@@ -1,5 +1,5 @@
 [versions]
-agp = "9.0.0"
+agp = "9.1.0"
 kotlin = "2.3.10"
 core-ktx = "1.17.0"
 junit = "4.13.2"
@@ -9,7 +9,7 @@ activity = "1.12.4"
 appcompat = "1.7.1"
 material = "1.13.0"
 constraintlayout = "2.2.1"
-composeBom = "2026.02.00"
+composeBom = "2026.02.01"
 
 [libraries]
 androidx-activity-compose = { group = "androidx.activity", name = "activity-compose", version.ref = "activity" }
